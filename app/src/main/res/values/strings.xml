@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Covidoo</string>
+    <string name="date">Date</string>
+    <string name="country_name">Egypt, EG</string>
+    <string name="active_cases">Active Cases: </string>
+    <string name="confirmed_cases">Total Cases: </string>
+    <string name="deaths">Deaths: </string>
+    <string name="recovered">Recovered: </string>
+    <string name="share">Share</string>
+    <string name="last_data">There is no internet connection so we will display the last stats :)</string>
+    <string-array name="choices">
+        <item>New Cases</item>
+        <item>Active Cases</item>
+        <item>Confirmed Cases</item>
+        <item>New Deaths</item>
+        <item>Deaths</item>
+        <item>Recovered</item>
+    </string-array>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>

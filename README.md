@@ -1,0 +1,1 @@
+# covidoo-android-app
